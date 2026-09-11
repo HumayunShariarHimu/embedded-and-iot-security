@@ -2,6 +2,15 @@
 
 > A curated and organized collection of resources related to **embedded-and-iot-security**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# embedded-and-iot-security
+
+> A curated and organized collection of resources related to **embedded-and-iot-security**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Embedded & IoT Security
