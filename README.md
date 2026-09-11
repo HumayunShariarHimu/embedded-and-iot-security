@@ -2,7 +2,6 @@
 
 > A curated and organized collection of resources related to **embedded-and-iot-security**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Embedded & IoT Security
 
